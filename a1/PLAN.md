@@ -2,7 +2,7 @@
 In future activities, the `PLAN.md` document is where you will do your pre-coding thinking and planning. For this activity, you will only fill in the *Reflection* section.
 
 ## Reflection
-It has been several years since I have used VS code. I think the last revision I used was 2016 or 2018. It is an entirely different program at this point. Re-learning it will take some time. I also had a difficult time with Git. While I know what it is and what it is for, I never learned how to use it. I am still not entirely sure I will submit this assignment correctly. While I have dabbled in several languages (C++, MySQL, Visual Basic, Python, HTML/CSS) it has been several years since I have touched any of them. I am looking forward to scraping the rust off, and relearning the basics. Learning Git might also prove useful. 
+It has been several years since I have used VS code. I think the last revision I used was 2016 or 2018. It is an entirely different program at this point. Re-learning it will take some time. I also had a difficult time with Git. While I know what it is and what it is for, I never learned how to use it. I am still not entirely sure I will submit this assignment correctly. While I have dabbled in several languages (C++, MySQL, Visual Basic, Python, HTML/CSS) it has been several years since I have touched any of them. I am looking forward to scraping the rust off, and relearning the basics. Learning Git might also prove useful.  
 
 
 # PLAN.md Module 1, Activity 2 - Modern Art
