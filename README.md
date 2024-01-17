@@ -19,7 +19,7 @@ Enter, compile and run the following application.
         public static void main(String[] args)
         {
             System.out.println("Hello, Class!");
-        }
+        } 
     }  
 ```
 
